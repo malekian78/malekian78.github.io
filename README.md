@@ -23,13 +23,16 @@
 - ⚡ Fun fact **I view the world with a distinctive perspective, harmonizing technology and creativity in my daily experiences.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/mohammad-hosein-malekian-92b0a5291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarialireza" height="25" width="35" /></a> <a href="https://www.instagram.com/_mh_malekian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alireza_anssari" height="25" width="35" /></a> <a href="https://stackoverflow.com/users/23047015/mohammadhosein-malekian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="ansari" height="30" width="40" /></a></p> 
+<p align="left"><a href="https://www.linkedin.com/in/mohammad-hosein-malekian-92b0a5291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarialireza" height="25" width="35" /></a> <a href="https://www.instagram.com/_mh_malekian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alireza_anssari" height="25" width="35" /></a> <a href="https://stackoverflow.com/users/23047015/mohammadhosein-malekian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="ansari" height="30" width="40" /></a>
+<a href="https://t.me/mh_malekian" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="25" width="35" />
+</a></p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/>  -->
 <!-- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="26" height="26"/>  -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26" height="26"/> -->
 <!-- <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26" height="26"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> -->
